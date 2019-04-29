@@ -12,9 +12,9 @@ event_end_date:
   - ""
 event_location:
   - 'a:3:{s:7:"address";s:42:"16 Buckingham St, Cambridge, MA 02138, USA";s:3:"lat";s:18:"42.379351404751496";s:3:"lng";s:18:"-71.12894057199708";}'
-detail-134481:
+event-date-display:
   - March 29, 2019
-detail-774501:
+event-location:
   - 1 Oxford St, Cambridge MA
 image: /wp-content/uploads/2019/02/ArtTechPsyche_darkblue.jpg
 categories:

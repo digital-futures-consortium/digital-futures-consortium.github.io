@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Bootstrap 4 Github Pages
+title: The Digital Futures Consortium at Harvard University
 ---
 
 A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).

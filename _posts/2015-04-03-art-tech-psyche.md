@@ -12,9 +12,9 @@ event_end_date:
   - ""
 event_location:
   - ""
-detail-134481:
+event-date-display:
   - April 23, 2015
-detail-774501:
+event-location:
   - Arts @ 29 Garden
 image: /wp-content/uploads/2015/04/CCLWxNeUMAAbGsA.png
 categories:

@@ -12,9 +12,9 @@ event_end_date:
   - ""
 event_location:
   - 'a:3:{s:7:"address";s:89:"Harvard University-Graduate School Of Design, Quincy Street, Cambridge, MA, United States";s:3:"lat";s:10:"42.3760051";s:3:"lng";s:11:"-71.1138934";}'
-detail-134481:
+event-date-display:
   - November 13, 2013
-detail-774501:
+event-location:
   - Graduate School of Design, Piper Auditorium
 image: /wp-content/uploads/2016/05/dfne_poster_min1-1-750x1145.jpg
 categories:

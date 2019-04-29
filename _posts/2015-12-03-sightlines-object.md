@@ -12,9 +12,9 @@ event_end_date:
   - ""
 event_location:
   - 'a:3:{s:7:"address";s:95:"Center for Government and International Studies, Cambridge Street, Cambridge, MA, United States";s:3:"lat";s:17:"42.37563519999999";s:3:"lng";s:18:"-71.11321179999999";}'
-detail-134481:
+event-date-display:
   - December 3, 2015
-detail-774501:
+event-location:
   - Tsai Auditorium, CGIS South, 1730 Cambridge St.
 image: /wp-content/uploads/2016/05/sightlines-2-object-11x17-BB-72dpi.jpg
 categories:

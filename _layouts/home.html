@@ -4,29 +4,49 @@ layout: default
 
 <div>
 
-  {%- if page.title -%}
-  <header>
-    <h1>{{ page.title }}</h1>
-  </header>
-  {%- endif -%}
+
 
   <section>
-    <div class="row">
+    <div class="row" id="front-intro">
       <div class="col description">
-        The Digital Futures Consortium at Harvard University is a network of technologists, faculty, researchers, and librarians engaged in the ongoing transformation of scholarship through innovative technology. We are dedicated to sharing expertise across the global academic community, facilitating new forms and methods of research, and fostering collaborative projects that bring about field­ changing developments in scholarship.
+        {%- if page.title -%}
+        <header>
+          <h2>{{ page.title }}</h2>
+        </header>
+        {%- endif -%}
+
+        <p>
+          The Digital Futures Consortium at Harvard University is a network of technologists, faculty, researchers, and librarians engaged in the ongoing transformation of scholarship through innovative technology. We are dedicated to sharing expertise across the global academic community, facilitating new forms and methods of research, and fostering collaborative projects that bring about field­ changing developments in scholarship.
+        </p>
       </div>
       <div class="col big-logo">
-        <img src="" />
+        <img src="{{ "/assets/images/DFC_logo_crimson-gold-72dpi.png" | relative_url }}" />
       </div>
     </div>
   </section>
+
 
   <section>
     {{ content }}
   </section>
 
   {%- if site.posts.size > 0 -%}
-    <p class="h4">{{ page.list_title | default: "Posts" }}</p>
+    <section>
+      <h3>{{ page.list_title | default: "Events" }}</h3>
+      <div class="row">
+        {%- for post in site.posts -%}
+          <div class="col-4">
+            <img src="{{ post.image | relative_url }}" />
+            <h5>
+              <a href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+            </h5>
+          </div>
+        {%- endfor -%}
+      </div>
+    </section>
+    <p class="h4">{{ page.list_title | default: "Events" }}</p>
     <ul class="list-unstyled">
       {%- for post in site.posts -%}
       <li>

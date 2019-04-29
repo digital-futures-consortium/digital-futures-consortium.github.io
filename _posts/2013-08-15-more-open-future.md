@@ -12,9 +12,9 @@ event_end_date:
   - ""
 event_location:
   - 'a:3:{s:7:"address";s:89:"Harvard University-Graduate School Of Design, Quincy Street, Cambridge, MA, United States";s:3:"lat";s:10:"42.3760051";s:3:"lng";s:11:"-71.1138934";}'
-detail-134481:
+event-date-display:
   - November 13, 2013
-detail-774501:
+event-location:
   - Graduate School of Design, Piper Auditorium
 image: /wp-content/uploads/2018/12/df_kansa.png
 categories:
@@ -48,7 +48,7 @@ categories:
           </div>
         </div>
       </div>
-      
+
       <div class="pos-top pos-center align_left column_parent col-lg-8 single-internal-gutter">
         <div class="uncol style-light"  >
           <div class="uncoltable">
@@ -58,16 +58,16 @@ categories:
                   <p>
                     <strong>September 10, 2013</strong><br /> <strong>5:00pm &#8211; 6:30pm</strong><br /> <strong>Science Center A</strong>
                   </p>
-                  
+
                   <p>
                     Come here <strong>Eric Kansa</strong> discuss<a href="http://opencontext.org/" target="_blank" rel="noopener"> <strong>Open Context</strong></a>, an open access data publishing venue for archaeology that represents the changing nature of scholarly communications. By emphasizing “data sharing as publishing,” peer-review, linked open data, and distributed systems, Open Context attempts to meet emerging research needs and contribute to the development of a more resilient information ecosystem capable of adapting to a changing research environment.
                   </p>
-                  
+
                   <p>
                     Organized by the Digital Futures Consortium, this is the inaugural presentation in a new series devoted to digital scholarship.
                   </p>
                 </div>
-                
+
                 <div class="row-internal row-container">
                   <div class="row row-child">
                     <div class="row-inner">
@@ -96,7 +96,7 @@ categories:
                           </div>
                         </div>
                       </div>
-                      
+
                       <div class="pos-top pos-center align_left column_child col-lg-6 single-internal-gutter">
                         <div class="uncol style-light" >
                           <div class="uncoltable">

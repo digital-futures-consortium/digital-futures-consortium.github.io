@@ -12,9 +12,9 @@ event_end_date:
   - "20180110"
 event_location:
   - 'a:3:{s:7:"address";s:59:"Lamont Library, Quincy Street, Cambridge, MA, United States";s:3:"lat";s:17:"42.37276699999999";s:3:"lng";s:18:"-71.11548100000005";}'
-detail-134481:
+event-date-display:
   - January 9 or 10, 2018
-detail-774501:
+event-location:
   - Lamont Library B-30 Collaborative Learning Space
 image: /wp-content/uploads/2017/12/DFC-VisualEloquence-Flyer-Jan18_edited.jpg
 categories:

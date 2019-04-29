@@ -3,7 +3,7 @@ id: 925
 title: Measuring the Unseen
 date: 2018-02-20T20:41:08+00:00
 author: Cole Crawford
-layout: post
+layout: dfds
 guid: http://www.digitalfuturesconsortium.org/?p=925
 permalink: /measuring-the-unseen/
 event__start_date:
@@ -12,9 +12,9 @@ event_end_date:
   - ""
 event_location:
   - 'a:3:{s:7:"address";s:66:"Cabot Science Library, Oxford Street, Cambridge, MA, United States";s:3:"lat";s:17:"42.37623670000001";s:3:"lng";s:9:"-71.11624";}'
-detail-134481:
+event-date-display:
   - March 7, 2018
-detail-774501:
+event-location:
   - Discovery Bar @ Cabot Science Library, Harvard Science Center
 image: /wp-content/uploads/2018/02/pulsus-youtube-screengrab.jpg
 categories:
@@ -49,7 +49,7 @@ categories:
           </div>
         </div>
       </div>
-      
+
       <div class="pos-top pos-center align_left column_parent col-lg-8 single-internal-gutter">
         <div class="uncol style-light"  >
           <div class="uncoltable">
@@ -59,20 +59,20 @@ categories:
                   <p>
                     <strong>March 7, 2018</strong><br /> <strong>11:45am &#8211; 12:45pm</strong><br /> <strong>Discovery Bar @ Cabot Science Library, Harvard Science Center</strong>
                   </p>
-                  
+
                   <p>
                     The Digital Futures Consortium at Harvard invites you to its next event in the Digital Futures Discovery Series, exploring the blend between analyzing quantitative data and designing an experience to &#8220;hear&#8221; the heart of a city.
                   </p>
-                  
+
                   <p>
                     PULSUS gathers real-time data on city activity, such as traffic patterns and what residents are doing and feeling, from various sources and translates the information into soundscapes. The goal is to generate an experience that resonates on an emotion ground level. The process has been very much a blend between analyzing quantitative data and designing an experience. And at the end, the resulting piece acts essentially as a conch shell for urban activity, or as a stethoscope: a new way to listen in to the city&#8217;s activity, and a concrete interface with a feedback system that is almost like a musical instrument.
                   </p>
-                  
+
                   <p>
                     Following the presentation, please join us in sharing your ideas and questions. We look forward to meeting you.
                   </p>
                 </div>
-                
+
                 <div class="row-internal row-container">
                   <div class="row row-child">
                     <div class="row-inner">
@@ -101,7 +101,7 @@ categories:
                           </div>
                         </div>
                       </div>
-                      
+
                       <div class="pos-top pos-center align_left column_child col-lg-9 single-internal-gutter">
                         <div class="uncol style-light" >
                           <div class="uncoltable">

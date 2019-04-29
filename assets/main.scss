@@ -7,3 +7,23 @@
 @import "syntax-highlighting";
 @import "bootstrap-4-jekyll/bootstrap-4-jekyll";
 @import "bootstrap_customization";
+
+$dfc-red: #A51C30;
+$dfc-yellow: #ffcc33;
+
+#front-intro {
+  border-bottom: 1px solid #eaeaea;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.dfds-header {
+  background-color: $dfc-red;
+  color: #ffffff;
+  text-align: center;
+  width: 100%;
+  min-height: 200px;
+}
+.dfds-header > h1 {
+  padding-top: 50px;
+}

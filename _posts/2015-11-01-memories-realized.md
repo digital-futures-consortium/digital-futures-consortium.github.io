@@ -12,9 +12,9 @@ event_end_date:
   - ""
 event_location:
   - 'a:3:{s:7:"address";s:43:"Boylston Hall, Cambridge, MA, United States";s:3:"lat";s:9:"42.373327";s:3:"lng";s:18:"-71.11727150000002";}'
-detail-134481:
+event-date-display:
   - November 10, 2015
-detail-774501:
+event-location:
   - Fong Auditorium, Boylston Hall
 image: /wp-content/uploads/2015/11/memories_realized_1000.jpg
 categories:

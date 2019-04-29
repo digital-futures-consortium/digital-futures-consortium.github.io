@@ -3,7 +3,7 @@ id: 1018
 title: 'Giza is My Classroom: Experiments in Virtual Reality, Streaming, and 3D Scanning'
 date: 2019-02-01T13:45:54+00:00
 author: Cole Crawford
-layout: post
+layout: dfds
 guid: https://www.digitalfuturesconsortium.org/?p=1018
 permalink: /giza-classroom-3d/
 event__start_date:
@@ -12,9 +12,9 @@ event_end_date:
   - ""
 event_location:
   - 'a:3:{s:7:"address";s:56:"Cabot Science Library, Oxford Street, Cambridge, MA, USA";s:3:"lat";s:17:"42.37623670000001";s:3:"lng";s:9:"-71.11624";}'
-detail-134481:
+event-date-display:
   - February 26, 2019
-detail-774501:
+event-location:
   - Discovery Bar, Cabot Science Library
 image: /wp-content/uploads/2019/02/GizaClassroom.jpg
 categories:
@@ -49,7 +49,7 @@ categories:
           </div>
         </div>
       </div>
-      
+
       <div class="pos-top pos-center align_left column_parent col-lg-8 single-internal-gutter">
         <div class="uncol style-light"  >
           <div class="uncoltable">
@@ -59,21 +59,21 @@ categories:
                   <div class="wpb_wrapper">
                   </div>
                 </div>
-                
+
                 <div class="uncode_text_column" >
                   <p>
                     <strong>February 26, 2019</strong><br /> <strong>3:00pm-4:00pm</strong><br /> <strong>Cabot Library Discovery Bar</strong>
                   </p>
-                  
+
                   <p>
                     Please join us for the February installment of the 2018-2019 <strong>Digital Futures Discovery Series</strong>, a year-long program led by Harvard&#8217;s <a href="https://urldefense.proofpoint.com/v2/url?u=http-3A__www.digitalfuturesconsortium.org_&d=DwMF-g&c=WO-RGvefibhHBZq3fL85hQ&r=seRl5uARHGV3mzk6s1iPEaq5uL8bxh_lEFcPUAfj6Uw&m=GTSeaTQfG65QvFAFWxOZ7cNHEcU5FW7NVOyRi-XjX10&s=y-4oiGB077VrLPzHSpopKrrbyzF75vHbf-dFrfcIYCk&e=">Digital Futures Consortium</a> that explores the ongoing transformation of scholarship through innovative technology.
                   </p>
-                  
+
                   <p>
                     Virtual reality and other innovative technologies are helping us use the tools of the future to study the past. Peter Manuelian will discuss some of his latest 3D experiments to bring ancient Egypt alive in the classroom, from live-streaming Giza Pyramids classes to China, to VR headsets for virtual visits to the Sphinx, augmented reality displays in the Harvard Semitic Museum, and 3D scanning and printing to restore separated fragments of ancient Egyptian statues that live in museums half a world away from each other.
                   </p>
                 </div>
-                
+
                 <div class="row-internal row-container">
                   <div class="row row-child">
                     <div class="row-inner">
@@ -102,7 +102,7 @@ categories:
                           </div>
                         </div>
                       </div>
-                      
+
                       <div class="pos-top pos-center align_left column_child col-lg-9 single-internal-gutter">
                         <div class="uncol style-light" >
                           <div class="uncoltable">

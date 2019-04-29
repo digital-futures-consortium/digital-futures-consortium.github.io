@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <header class="dfds-header">
+      <h1>{{ page.title | escape }}</h1>
+      <p class="text-muted">
+        Posted <time datetime="{{ page.date | date_to_xmlschema }}">
+          {%- assign date_format = "%b %-d, %Y" -%}
+          {{ page.date | date: date_format }}
+        </time> | By {%- if page.author -%}{{ page.author }}{%- endif -%}
+        <br />
+        {% assign categories = page.categories %}
+        {% for cat in categories %}
+          {% if forloop.last %}
+            {{ cat }}
+          {% else %}
+            {{ cat }},
+          {% endif %}
+        {% endfor %}
+
+      </p>
+    </header>
+
+    <div class="py-5">
+      <div class="container page-content">
+
+        <div class="row">
+          <div class="col-4">
+            <img src="{{ page.image }}" />
+          </div>
+          <div class="col-8">
+            <div class="row event-info">
+              <div class="event-date">{{ page.event-date-display }}</div>
+              <div class="event-time">{{ page.event-time }}</div>
+              <div class="event-location">{{ page.event-location}}</div>
+            </div>
+            <div class="row">
+              {{ content }}
+            </div>
+            <div class="row">
+              <div class="col-3">
+                <img src="{{ page.speaker-image }}" />
+              </div>
+              <div class="col-9">
+                {{ page.speaker-description }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

@@ -12,9 +12,9 @@ event_end_date:
   - ""
 event_location:
   - 'a:3:{s:7:"address";s:58:"CGIS South, Cambridge Street, Cambridge, MA, United States";s:3:"lat";s:10:"42.3750154";s:3:"lng";s:18:"-71.11314759999999";}'
-detail-134481:
+event-date-display:
   - October 14, 2015
-detail-774501:
+event-location:
   - Tsai Auditorium, CGIS South, 1730 Cambridge St.
 image: /wp-content/uploads/2016/10/sIGHTLines-1-obSERVE_11x17_72dpi.jpg
 categories:

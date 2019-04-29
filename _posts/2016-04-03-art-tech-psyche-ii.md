@@ -12,9 +12,9 @@ event_end_date:
   - ""
 event_location:
   - 'a:3:{s:7:"address";s:61:"Arts @ 29 Garden, Garden Street, Cambridge, MA, United States";s:3:"lat";s:10:"42.3790651";s:3:"lng";s:11:"-71.1237049";}'
-detail-134481:
+event-date-display:
   - April 14, 2016
-detail-774501:
+event-location:
   - Arts @ 29 Garden
 image: /wp-content/uploads/2016/04/ArtTechPsycheII_1000.jpg
 categories:

@@ -12,9 +12,9 @@ event_end_date:
   - ""
 event_location:
   - 'a:3:{s:7:"address";s:59:"Lamont Library, Quincy Street, Cambridge, MA, United States";s:3:"lat";s:17:"42.37276699999999";s:3:"lng";s:18:"-71.11548100000005";}'
-detail-134481:
+event-date-display:
   - February 11, 2016
-detail-774501:
+event-location:
   - Forum Room, Lamont Library, 11 Quincy Street
 image: /wp-content/uploads/2016/10/3-project-11x17_72dpi.jpg
 categories:
