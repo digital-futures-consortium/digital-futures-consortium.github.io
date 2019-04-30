@@ -10,6 +10,7 @@
 
 $dfc-red: #A51C30;
 $dfc-yellow: #ffcc33;
+$dfc-offblack: #303133;
 
 #front-intro {
   border-bottom: 1px solid #eaeaea;
@@ -26,4 +27,56 @@ $dfc-yellow: #ffcc33;
 }
 .dfds-header > h1 {
   padding-top: 50px;
+}
+
+a {
+  color: $dfc-offblack;
+  text-decoration: none;
+}
+a:hover {
+  color: $dfc-yellow;
+  text-decoration: none;
+}
+
+.event-info > .col > div {
+  font-weight: bold;
+}
+
+.bg-primary {
+  background-color: #ffffff !important;
+}
+
+.nav-item > .nav-link {
+  color: $dfc-offblack !important;
+}
+.nav-item > .nav-link:hover {
+  color: $dfc-yellow !important;
+}
+
+.dfds-header {
+  margin-bottom: 10px;
+}
+.person{
+  text-align: center;
+  padding-top: 15px;
+}
+.headshot {
+  width: 200px;
+  height: 200px;
+}
+.people {
+  margin-top: 25px;
+}
+.event {
+  margin-top: 25px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: $dfc-red;
+    border-color: $dfc-red;
+}
+.btn-primary:hover{
+  background-color: $dfc-yellow;
+  border-color: $dfc-yellow;
 }

@@ -1,0 +1,60 @@
+---
+id: 735
+title: Who We Are
+date: 2017-11-03T22:12:36+00:00
+author: Cole Crawford
+layout: page
+guid: http://www.digitalfuturesconsortium.org/?page_id=735
+permalink: /about
+---
+<div class="row">
+  <div class="col">
+    <p>
+      Digital Futures Consortium at Harvard is a network of technologists, faculty, researchers, and librarians engaged in the ongoing transformation of scholarship through innovative technology. We are dedicated to sharing expertise across the global academic community, facilitating new forms and methods of research, and fostering collaborative projects that bring about field­ changing developments in scholarship.
+    </p>
+    <h4>
+      Our Goals:
+    </h4>
+    <ul>
+        <li>
+          Create an ongoing forum for digital scholarship across all fields of study
+        </li>
+        <li>
+            Advocate for and support Harvard researchers who seek to engage with truly field­ changing applications of technology
+        </li>
+      </ul>
+      <div class="text-center" style="margin-top: 25px; margin-bottom: 25px;">
+        <img src="/wp-content/uploads/2017/09/DFCChalkboard.jpg"/>
+      </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col">
+    <h2 style="text-align: center;">
+      Digital Futures Consortium Core Committee for Organizing and Planning
+    </h2>
+    <div class="row people">
+      {% for person in site.data.people %}
+        {% if person.co-chair == true %}
+          <div class="col person">
+            <img src="{{ person.image | relative_url }}" class="headshot rounded-circle" />
+            <div><strong>{{ person.name }}</strong></div>
+            <div><strong>DFC Co-Chair</strong></div>
+            <div>{{ person.position }}</div>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+    <div class="row people">
+      {% for person in site.data.people %}
+        {% unless person.co-chair == true %}
+          <div class="col-3 person">
+            <img src="{{ person.image | relative_url }}" class="headshot rounded-circle" />
+            <div><strong>{{ person.name }}</strong></div>
+            <div>{{ person.position }}</div>
+          </div>
+        {% endunless %}
+      {% endfor %}
+    </div>
+  </div>
+</div>

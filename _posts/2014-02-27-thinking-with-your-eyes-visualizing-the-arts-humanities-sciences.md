@@ -1,6 +1,6 @@
 ---
 id: 965
-title: 'Thinking with Your Eyes: Visualizing the Arts, Humanities, &#038; Sciences'
+title: 'Thinking with Your Eyes: Visualizing the Arts, Humanities, & Sciences'
 date: 2014-02-27T08:00:50+00:00
 author: Jeff Emanuel
 layout: post
@@ -13,6 +13,10 @@ event_end_date:
 event_location:
   - ""
 image: /wp-content/uploads/2014/02/twye2.jpg
+event-date-display:
+  - February 27 and 28, 2014
+event-location:
+  - Harvard University – Knafel Center (Radcliffe Gym)
 categories:
   - Events
 ---

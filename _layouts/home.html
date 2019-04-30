@@ -32,41 +32,23 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
     <section>
-      <h3>{{ page.list_title | default: "Events" }}</h3>
+      <h3><a href="/events">Events</a></h3>
       <div class="row">
-        {%- for post in site.posts -%}
+        {% for post in site.posts limit: 3%}
           <div class="col-4">
-            <img src="{{ post.image | relative_url }}" />
+            <a href="{{ post.url | relative_url }}">
+              <img src="{{ post.image | relative_url }}" />
+            </a>
             <h5>
               <a href="{{ post.url | relative_url }}">
                 {{ post.title | escape }}
               </a>
             </h5>
+            <strong>{{ post.event-date-display }}</strong>
           </div>
-        {%- endfor -%}
+        {% endfor %}
       </div>
     </section>
-    <p class="h4">{{ page.list_title | default: "Events" }}</p>
-    <ul class="list-unstyled">
-      {%- for post in site.posts -%}
-      <li>
-        <span class="text-muted">
-          {%- assign date_format = "%b %-d, %Y" -%}
-          {{ post.date | date: date_format }}
-        </span>
-        <p class="h5">
-          <a href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </p>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 
 </div>

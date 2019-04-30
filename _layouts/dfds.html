@@ -9,11 +9,11 @@
 
     <header class="dfds-header">
       <h1>{{ page.title | escape }}</h1>
-      <p class="text-muted">
+      <p>
         Posted <time datetime="{{ page.date | date_to_xmlschema }}">
           {%- assign date_format = "%b %-d, %Y" -%}
           {{ page.date | date: date_format }}
-        </time> | By {%- if page.author -%}{{ page.author }}{%- endif -%}
+        </time> by {%- if page.author -%}&nbsp{{ page.author }}{%- endif -%}
         <br />
         {% assign categories = page.categories %}
         {% for cat in categories %}
@@ -36,12 +36,16 @@
           </div>
           <div class="col-8">
             <div class="row event-info">
-              <div class="event-date">{{ page.event-date-display }}</div>
-              <div class="event-time">{{ page.event-time }}</div>
-              <div class="event-location">{{ page.event-location}}</div>
+              <div class="col">
+                <div class="event-date">{{ page.event-date-display }}</div>
+                <div class="event-time">{{ page.event-time }}</div>
+                <div class="event-location">{{ page.event-location}}</div>
+              </div>
             </div>
             <div class="row">
-              {{ content }}
+              <div class="col">
+                {{ content }}
+              </div>
             </div>
             <div class="row">
               <div class="col-3">
