@@ -26,7 +26,7 @@ speaker-description: "<strong>Allen Sayegh</strong> is an architect, designer, a
 brief: "PULSUS gathers real-time data on city activity, such as traffic patterns and what residents are doing and feeling, from various sources and translates the information into soundscapes. The goal is to generate an experience that resonates on an emotion ground level."
 ---
 <p>
-  The Digital Futures Consortium at Harvard invites you to its next event in the Digital Futures Discovery Series, exploring the blend between analyzing quantitative data and designing an experience to &#8220;hear&#8221; the heart of a city.
+  The Digital Futures Consortium at Harvard invites you to its next event in the Digital Futures Discovery Series, exploring the blend between analyzing quantitative data and designing an experience to "hear" the heart of a city.
 </p>
 
 <p>

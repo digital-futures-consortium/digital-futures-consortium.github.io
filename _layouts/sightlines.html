@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <header class="dfds-header">
+      <h1>{{ page.title | escape }}</h1>
+      <p>
+        Posted <time datetime="{{ page.date | date_to_xmlschema }}">
+          {%- assign date_format = "%b %-d, %Y" -%}
+          {{ page.date | date: date_format }}
+        </time> by {%- if page.author -%}&nbsp{{ page.author }}{%- endif -%}
+        <br />
+        {% assign categories = page.categories %}
+        {% for cat in categories %}
+          {% if forloop.last %}
+            {{ cat }}
+          {% else %}
+            {{ cat }},
+          {% endif %}
+        {% endfor %}
+
+      </p>
+    </header>
+    <div class="container">
+        <div class="row">
+          <div class="col-4">
+            <img src="{{ page.image }}" style="max-width:100%; max-height:100%" />
+          </div>
+          <div class="col-8">
+            <div class="row event-info">
+              <div class="col">
+                <div class="event-date">{{ page.event-date-display }}</div>
+                <div class="event-time">{{ page.event-time }}</div>
+                <div class="event-location">{{ page.event-location}}</div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col">
+                {{ content }}
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="py-5">
+          <div class="container page-content">
+            <div class="row">
+              <div class="col-6" id="sightlines-people">
+                <h4>People</h4>
+                {% for person in page.speaker-description %}
+                  <div class="card">
+                    <div class="card-header">
+                      <h5>
+                        <button class="btn btn-link" data-toggle="collapse" data-target="#collapse{{forloop.index0}}" aria-expanded="true" aria-controls="collapse{{forloop.index0}}">
+                          {{ page.speaker-name[forloop.index0] }}
+                        </button>
+                      </h5>
+                    </div>
+                    <div id="collapse{{ forloop.index0 }}" class="collapse" aria-labelledby="heading{{ forloop.index0 }}" data-parent="#accordion">
+                      <div class="card-body">
+                        <div class="speaker-image-container text-center">
+                          <img src="{{ page.speaker-image[forloop.index0] }}" />
+                        </div>
+                        <div class="speaker-description">
+                          {{ page.speaker-description[forloop.index0] }}
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  {% endfor %}
+              </div>
+              <div class="col-6" id="sightlines-media">
+                <h4>Media</h4>
+                {% for media in page.media-labels %}
+                    <div class="card">
+                      <div class="card-header">
+                        <h5>
+                          <button class="btn btn-link" data-toggle="collapse" data-target="#collapsemedia{{forloop.index0}}" aria-expanded="true" aria-controls="collapsemedia{{forloop.index0}}">
+                            {{ page.media-labels[forloop.index0] }}
+                          </button>
+                        </h5>
+                      </div>
+                      <div id="collapsemedia{{ forloop.index0 }}" class="collapse" aria-labelledby="heading{{ forloop.index0 }}" data-parent="#accordion">
+                        <div class="card-body">
+                          <div class="media-container text-center">
+                            {% if page.media[forloop.index0] == 'slider' %}
+                              {% include slider.html height="50" unit="%" transition="slide" duration="7" %}
+                            {% else %}
+                              {{ page.media[forloop.index0]}}
+                            {% endif %}
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                {% endfor %}
+              </div>
+            </div>
+
+      </div>
+    </div>
+  </div>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

@@ -2,7 +2,7 @@
 id: 698
 title: 'Drone Technology: Bridging the Gap Between Research and Teaching'
 date: 2017-10-20T14:14:04+00:00
-author: digitalfutures
+author: Cole Crawford
 layout: dfds
 guid: http://www.digitalfuturesconsortium.org/?p=698
 permalink: /drone-technology-research-teaching/

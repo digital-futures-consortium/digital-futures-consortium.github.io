@@ -21,11 +21,12 @@ image: /wp-content/uploads/2018/01/MorgantinaVR_fig-1.png
 categories:
   - Digital Futures Discovery Series
   - Events
-speaker-image: /wp-content/uploads/2018/01/AlexWalthall_square.jpg
-speaker-image: /wp-content/uploads/2018/01/lukehollis.jpg
-speaker-description: '<p><strong>Alex Walthall</strong> is an archaeologist who specializes in the material culture of the ancient Mediterranean region, particularly the archaeology of ancient Sicily. He currently serves as Director of the Contrada Agnese Project (CAP) at Morgantina. For the latest news on the CAP excavations, visit <a href="http://www.themagazzino.org/">www.themagazzino.org</a>. When not in the field, Alex teaches at the University of Texas at Austin, where he is an Assistant Professor of Greek and Roman Archaeology in the Department of Classics. He is a 2017–18 fellow with Harvard’s Center for Hellenic Studies, and is teaching a seminar on the history and archaeology of Sicily this Spring in Harvard’s Department of Classics.</p>
-
-<strong><a href="http://lukeholl.is/">Luke Hollis</a> </strong>is the founder of Archimedes Digital, a Cambridge-based startup dedicated to software and mixed reality development for the humanities. Rather than creating software that further distracts and isolates users, the artists, developers, and archivists at Archimedes build applications that connect us to our shared traditions and cultures. Archimedes Digital partners with libraries, museums, and archives as well as sponsors internationally to develop applications for education and cultural heritage across platforms.'
+speaker-image:
+- /wp-content/uploads/2018/01/AlexWalthall_square.jpg
+- /wp-content/uploads/2018/01/lukehollis.jpg
+speaker-description:
+- '<strong>Alex Walthall</strong> is an archaeologist who specializes in the material culture of the ancient Mediterranean region, particularly the archaeology of ancient Sicily. He currently serves as Director of the Contrada Agnese Project (CAP) at Morgantina. For the latest news on the CAP excavations, visit <a href="http://www.themagazzino.org/">www.themagazzino.org</a>. When not in the field, Alex teaches at the University of Texas at Austin, where he is an Assistant Professor of Greek and Roman Archaeology in the Department of Classics. He is a 2017–18 fellow with Harvard’s Center for Hellenic Studies, and is teaching a seminar on the history and archaeology of Sicily this Spring in Harvard’s Department of Classics.'
+- '<strong><a href="http://lukeholl.is/">Luke Hollis</a> </strong>is the founder of Archimedes Digital, a Cambridge-based startup dedicated to software and mixed reality development for the humanities. Rather than creating software that further distracts and isolates users, the artists, developers, and archivists at Archimedes build applications that connect us to our shared traditions and cultures. Archimedes Digital partners with libraries, museums, and archives as well as sponsors internationally to develop applications for education and cultural heritage across platforms.'
 
 ---
 <p>
@@ -49,7 +50,7 @@ speaker-description: '<p><strong>Alex Walthall</strong> is an archaeologist who 
 </p>
 
 <p>
-  You can download the MorgantinaVR Beta app for your smartphone here: </span><a href="https://play.google.com/store/apps/details?id=digital.archimedes.morgantinavr">https://play.google.com/store/apps/details?id=digital.archimedes.morgantinavr</a>
+  You can download the MorgantinaVR Beta app for your smartphone here: <a href="https://play.google.com/store/apps/details?id=digital.archimedes.morgantinavr">https://play.google.com/store/apps/details?id=digital.archimedes.morgantinavr</a>
 </p>
 
 <p>

@@ -47,14 +47,16 @@
                 {{ content }}
               </div>
             </div>
-            <div class="row">
-              <div class="col-3">
-                <img src="{{ page.speaker-image }}" />
+            {% for speaker in page.speaker-description %}
+              <div class="row">
+                <div class="col-3">
+                  <img src="{{ page.speaker-image[forloop.index0] }}" />
+                </div>
+                <div class="col-9">
+                  <p>{{ page.speaker-description[forloop.index0] }}</p>
+                </div>
               </div>
-              <div class="col-9">
-                {{ page.speaker-description }}
-              </div>
-            </div>
+            {% endfor %}
           </div>
         </div>
       </div>

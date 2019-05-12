@@ -24,9 +24,13 @@ $dfc-offblack: #303133;
   text-align: center;
   width: 100%;
   min-height: 200px;
+  margin-bottom: 10px;
+  padding-bottom: 25px;
 }
 .dfds-header > h1 {
   padding-top: 50px;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 a {
@@ -52,10 +56,6 @@ a:hover {
 .nav-item > .nav-link:hover {
   color: $dfc-yellow !important;
 }
-
-.dfds-header {
-  margin-bottom: 10px;
-}
 .person{
   text-align: center;
   padding-top: 15px;
@@ -79,4 +79,17 @@ a:hover {
 .btn-primary:hover{
   background-color: $dfc-yellow;
   border-color: $dfc-yellow;
+}
+.speaker-image-container {
+  margin-bottom: 10px;
+}
+.speaker-image-container > img {
+  max-width: 150px;
+  max-height: 150px;
+}
+.btn-link {
+  color: black;
+}
+.btn-link:hover {
+  color: $dfc-yellow;
 }

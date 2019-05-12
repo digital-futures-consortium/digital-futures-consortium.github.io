@@ -3,7 +3,7 @@ id: 873
 title: 'Visual Eloquence: A Hands-On Workshop for Creating Effective Data Visualizations'
 date: 2018-01-02T21:14:50+00:00
 author: Cole Crawford
-layout: post
+layout: dfds
 guid: http://www.digitalfuturesconsortium.org/?p=873
 permalink: /visual-eloquence-dataviz-jan-18/
 event__start_date:

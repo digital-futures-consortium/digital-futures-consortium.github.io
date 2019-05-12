@@ -23,7 +23,7 @@ categories:
   - Digital Futures Discovery Series
   - Events
 speaker-image: /wp-content/uploads/2019/03/BCGL.jpg
-speaker-description: "<strong>Benjamin Charles Germain Lee</strong> Ben Lee is currently in the Ph.D. Program in Computer Science & Engineering at the University of Washington. He graduated summa cum laude from Harvard College in 2017, where he received the Thomas T. Hoopes Prize for “extraordinary undergraduate research,” was named a Harvard Undergraduate Science Research Fellow and a John Harvard Scholar, and was later named a visiting fellow in the Department of History."
+speaker-description: "<strong>Benjamin Charles Germain Lee</strong> is currently in the Ph.D. Program in Computer Science & Engineering at the University of Washington. He graduated summa cum laude from Harvard College in 2017, where he received the Thomas T. Hoopes Prize for “extraordinary undergraduate research,” was named a Harvard Undergraduate Science Research Fellow and a John Harvard Scholar, and was later named a visiting fellow in the Department of History."
 brief: "Manually searching through more than 46 million digital records is an intractable research task. This is what lay ahead of Ben as a Digital Humanities Associate Fellow at the United States Holocaust Memorial Museum, as he sought to aggregate the death certificate reference cards of individuals who perished in concentration camps during the Holocaust—cards scattered throughout the International Tracing Service digital archive."
 ---
 <p>

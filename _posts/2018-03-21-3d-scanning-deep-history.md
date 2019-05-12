@@ -23,7 +23,7 @@ categories:
   - Events
 speaker-image:
 speaker-description:
-brief: "Professors Daniel Lord Smail (History) and Matthew Liebmann (Anthropology) will discuss the rationale for grounding their 'Deep History' course in material culture, and the impact of 3D models have on the course. Jeremy Guillette will discuss and demo the scanning process."
+brief: "Professors <strong>Daniel Lord Smail (History)</strong> and <strong>Matthew Liebmann (Anthropology)</strong> will discuss the rationale for grounding their 'Deep History' course in material culture, and the impact of 3D models have on the course. <strong>Jeremy Guillette</strong> will discuss and demo the scanning process."
 ---
 <p>
   "Deep History", a course jointly offered by the History and Anthropology departments this semester, combines the perspectives of archaeology and history together in a single historical framework. To help anchor the course in the timeline of past and present, students engage with the world-class collection of artifacts at Harvard’s Peabody Museum, giving them a unique opportunity to approach human history through material remains.
@@ -34,7 +34,7 @@ brief: "Professors Daniel Lord Smail (History) and Matthew Liebmann (Anthropolog
 </p>
 
 <p>
-  In this Digital Futures Discovery Series presentation, Professors Daniel Lord Smail (History) and Matthew Liebmann (Anthropology) will discuss the rationale for grounding the course in material culture, and the impact that the 3D models have on the course, and Jeremy Guillette, the History Department Digital Scholarship Facilitator, will discuss the scanning process, including a live demonstration of the scanning equipment.
+  In this Digital Futures Discovery Series presentation, <strong>Daniel Lord Smail (History)</strong> and <strong>Matthew Liebmann (Anthropology)</strong> will discuss the rationale for grounding the course in material culture, and the impact that the 3D models have on the course, and <strong>Jeremy Guillette</strong>, the History Department Digital Scholarship Facilitator, will discuss the scanning process, including a live demonstration of the scanning equipment.
 </p>
 
 <p>

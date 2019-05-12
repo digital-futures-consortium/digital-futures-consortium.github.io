@@ -3,7 +3,7 @@ id: 1003
 title: 'A More Open Future for the Past: Publishing, Data, and Archaeology'
 date: 2013-08-15T16:54:30+00:00
 author: digitalfutures
-layout: post
+layout: dfds
 guid: https://www.digitalfuturesconsortium.org/?p=1003
 permalink: /more-open-future/
 event__start_date:

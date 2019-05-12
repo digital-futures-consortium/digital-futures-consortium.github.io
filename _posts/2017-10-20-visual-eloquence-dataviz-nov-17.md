@@ -3,7 +3,7 @@ id: 713
 title: 'Visual Eloquence: A Hands-On Workshop for Creating Effective Data Visualizations'
 date: 2017-10-20T10:55:34+00:00
 author: digitalfutures
-layout: post
+layout: dfds
 guid: http://www.digitalfuturesconsortium.org/?p=713
 permalink: /visual-eloquence-dataviz-nov-17/
 event__start_date:

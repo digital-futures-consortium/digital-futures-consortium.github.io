@@ -3,7 +3,7 @@ id: 965
 title: 'Thinking with Your Eyes: Visualizing the Arts, Humanities, & Sciences'
 date: 2014-02-27T08:00:50+00:00
 author: Jeff Emanuel
-layout: post
+layout: dfds
 guid: https://www.digitalfuturesconsortium.org/?p=965
 permalink: /thinking-with-your-eyes-visualizing-the-arts-humanities-sciences/
 event__start_date:
@@ -20,15 +20,9 @@ event-location:
 categories:
   - Events
 ---
-<h2 style="text-align: center;">
-  Thinking with Your Eyes<br /> <strong>Visualizing the Arts, Humanities, & Sciences</strong>
-</h2>
-
-<p style="text-align: center;">
-  <strong>February 27 – 28, 2014</strong><br /> <strong>Harvard University – Knafel Center (Radcliffe Gym)</strong>
-</p>
-
-<img class="alignright size-full wp-image-966" src="https://www.digitalfuturesconsortium.org/wp-content/uploads/2018/09/twye.png" alt="Thinking with Your Eyes: Visualizing the Arts, Humanities, & Sciences" width="206" height="172" /> Digital Futures presents Thinking with Your Eyes, a visualization symposium here at Harvard’s Radcliffe Gym, to be held February 27-28.
+<div class="text-center">
+  <img src="/wp-content/uploads/2018/09/twye.png" alt="Thinking with Your Eyes: Visualizing the Arts, Humanities, & Sciences"/>
+</div>
 
 Thinking with Your Eyes explores the uses of visualization across disciplines and research methods. During this two-day symposium, experts will share tools, techniques and perspectives about what it means to interpret, learn and teach visually. The program includes lightning-round sessions, keynote presentations, roundtable discussions, and hands-on workshops.
 
