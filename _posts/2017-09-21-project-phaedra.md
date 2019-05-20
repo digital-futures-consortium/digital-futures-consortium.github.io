@@ -21,8 +21,10 @@ categories:
   - Digital Futures Discovery Series
   - Events
 event-time: 11:45am - 12:45pm
-speaker-image: /wp-content/uploads/2017/09/DainaBouquin.gif
-speaker-description: "Daina Bouquin is the Head Librarian of Wolbach Library at the Harvard-Smithsonian Center for Astrophysics. At the CfA, Daina's work focuses primarily on lowering social and technical barriers that impact the astronomy community’s ability to create and share new knowledge. Some of her specific topics of interest include open science, research software preservation, data visualization, machine learning, and the history of science."
+speaker-image:
+- /wp-content/uploads/2017/09/DainaBouquin.gif
+speaker-description:
+- "Daina Bouquin is the Head Librarian of Wolbach Library at the Harvard-Smithsonian Center for Astrophysics. At the CfA, Daina's work focuses primarily on lowering social and technical barriers that impact the astronomy community’s ability to create and share new knowledge. Some of her specific topics of interest include open science, research software preservation, data visualization, machine learning, and the history of science."
 brief: "Material originally produced during 19th and early 20th century by researchers at the Harvard College Observatory (HCO) was recently re-discovered in the HCO Astronomical Plate Stacks collection. This material helps represent the history of the HCO and acts as an irreplaceable primary source on the evolution of observation methods and astronomy as a science."
 ---
 

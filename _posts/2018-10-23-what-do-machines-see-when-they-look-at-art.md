@@ -18,8 +18,10 @@ event-date-display:
 event-location:
   - Discovery Bar, Cabot Science Library
 image: /wp-content/uploads/2018/10/what-do-machines-see-when-they-look-at-art.png
-speaker-image: /wp-content/uploads/2018/10/steward-jeff.jpg
-speaker-description: '<strong>Jeff Steward</strong> is director of digital infrastructure and emerging technologies (DIET) at the Harvard Art Museums, exploring and leading the museums on the use of a wide range of digital technology. He oversees the collections database, <span class="caps">API</span>, and photography studio. For the opening of the new Harvard Art Museums in November 2014, he helped launch the Lightbox Gallery, a public research and development space. Steward has worked at museums with museum data since 1999. Areas of research include visualization of cultural datasets; open access to metadata and multimedia material; and data interoperability and sustainability.'
+speaker-image:
+- /wp-content/uploads/2018/10/steward-jeff.jpg
+speaker-description:
+- '<strong>Jeff Steward</strong> is director of digital infrastructure and emerging technologies (DIET) at the Harvard Art Museums, exploring and leading the museums on the use of a wide range of digital technology. He oversees the collections database, <span class="caps">API</span>, and photography studio. For the opening of the new Harvard Art Museums in November 2014, he helped launch the Lightbox Gallery, a public research and development space. Steward has worked at museums with museum data since 1999. Areas of research include visualization of cultural datasets; open access to metadata and multimedia material; and data interoperability and sustainability.'
 categories:
   - Digital Futures Discovery Series
   - Events

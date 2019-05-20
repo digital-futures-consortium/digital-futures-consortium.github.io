@@ -20,8 +20,10 @@ image: /wp-content/uploads/2018/12/df_kansa.png
 categories:
   - Events
 event-time: 5:00pm - 6:30pm
-speaker-image: /wp-content/uploads/2018/12/eric-kansa.jpg
-speaker-description: 'Dr. Eric Kansa is the Program Director for Open Context. He manages Open Context research and development, and technical aspects of data publishing and archiving, including systems interoperability, data integration, and indexing. Dr. Kansa holds a Ph.D. in Anthropology, and archeological field experience in the Near East, Egypt, Italy and North America. His research interests explore research data informatics, research data policy, ethics, and professional context of the digital humanities. He blogs at <a href="http://ux.opencontext.org/">Heritage Bytes</a>, and is on Twitter <a href="https://twitter.com/ekansa">@ekansa</a>'
+speaker-image:
+- /wp-content/uploads/2018/12/eric-kansa.jpg
+speaker-description:
+- 'Dr. Eric Kansa is the Program Director for Open Context. He manages Open Context research and development, and technical aspects of data publishing and archiving, including systems interoperability, data integration, and indexing. Dr. Kansa holds a Ph.D. in Anthropology, and archeological field experience in the Near East, Egypt, Italy and North America. His research interests explore research data informatics, research data policy, ethics, and professional context of the digital humanities. He blogs at <a href="http://ux.opencontext.org/">Heritage Bytes</a>, and is on Twitter <a href="https://twitter.com/ekansa">@ekansa</a>'
 brief: "Eric Kansa will discuss Open Context, an open access data publishing venue for archaeology that represents the changing nature of scholarly communications."
 ---
 <p>

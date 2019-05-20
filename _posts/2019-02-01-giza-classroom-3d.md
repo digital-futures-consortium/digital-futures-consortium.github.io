@@ -21,8 +21,10 @@ categories:
   - Digital Futures Discovery Series
   - Events
 event-time: 3:00pm-4:00pm
-speaker-description: "<strong>Peter Manuelian</strong> received his PhD in Egyptology from the University of Chicago in 1990. In 2009, he was appointed the Philip J. King Professor of Egyptology at Harvard University (Department of Near Eastern Languages and Civilizations, and Department of Anthropology). He is director of the Harvard Semitic Museum, and also directs the Giza Project at Harvard. His primary research interests include ancient Egyptian history, archaeology, digital epigraphy and visualization, the development of mortuary architecture, and the (icono)graphic nature of Egyptian language and culture in general."
-speaker-image: /wp-content/uploads/2019/02/manuelian_headshot.jpg
+speaker-description:
+- "<strong>Peter Manuelian</strong> received his PhD in Egyptology from the University of Chicago in 1990. In 2009, he was appointed the Philip J. King Professor of Egyptology at Harvard University (Department of Near Eastern Languages and Civilizations, and Department of Anthropology). He is director of the Harvard Semitic Museum, and also directs the Giza Project at Harvard. His primary research interests include ancient Egyptian history, archaeology, digital epigraphy and visualization, the development of mortuary architecture, and the (icono)graphic nature of Egyptian language and culture in general."
+speaker-image:
+- /wp-content/uploads/2019/02/manuelian_headshot.jpg
 brief: "Peter Manuelian will discuss some of his latest 3D experiments to bring ancient Egypt alive in the classroom, from live-streaming Giza Pyramids classes to China, to VR headsets for virtual visits to the Sphinx, augmented reality displays in the Harvard Semitic Museum, and 3D scanning and printing to restore separated fragments of ancient Egyptian statues that live in museums half a world away from each other."
 ---
   <p>

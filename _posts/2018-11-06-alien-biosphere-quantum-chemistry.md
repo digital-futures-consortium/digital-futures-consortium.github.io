@@ -21,8 +21,10 @@ image: /wp-content/uploads/2018/12/Alien-Biosphere.jpg
 categories:
   - Digital Futures Discovery Series
   - Events
-speaker-description: '<strong>Clara Sousa-Silva</strong> joined MIT in September 2016 as a post-doc in the EAPS department working with <a href="https://www.saraseager.com/">Sara Seager</a>. Before Clara came to MIT she was the Educational Co-ordinator for the <a href="http://www.twinkle-spacemission.co.uk/">Twinkle Space Mission</a> where she founded <a href="http://www.twinkle-spacemission.co.uk/edutwinkle/">EduTwinkle</a>, the mission&#8217;s educational program. As part of EduTwinkle, Clara started the <a href="http://www.twinkle-spacemission.co.uk/orbyts/">ORBYTS program</span></a> (Original Research By Young Twinkle Students), where high school students work along scientists to produce original research associated with space exploration. The first three associated articles have now been published (see below) with nine of the kids as co-authors.
-speaker-image: /wp-content/uploads/2018/12/sousa-silve-clara.jpg'
+speaker-description:
+- '<strong>Clara Sousa-Silva</strong> joined MIT in September 2016 as a post-doc in the EAPS department working with <a href="https://www.saraseager.com/">Sara Seager</a>. Before Clara came to MIT she was the Educational Co-ordinator for the <a href="http://www.twinkle-spacemission.co.uk/">Twinkle Space Mission</a> where she founded <a href="http://www.twinkle-spacemission.co.uk/edutwinkle/">EduTwinkle</a>, the mission&#8217;s educational program. As part of EduTwinkle, Clara started the <a href="http://www.twinkle-spacemission.co.uk/orbyts/">ORBYTS program</span></a> (Original Research By Young Twinkle Students), where high school students work along scientists to produce original research associated with space exploration. The first three associated articles have now been published (see below) with nine of the kids as co-authors.'
+speaker-image:
+- /wp-content/uploads/2018/12/sousa-silve-clara.jpg
 brief: Dr. Sousa-Silva will be discussing her current research projects, which involve assessing alien biosignatures with organic and quantum chemistry.
 ---
 <p>

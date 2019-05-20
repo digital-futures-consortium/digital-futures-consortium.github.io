@@ -21,8 +21,10 @@ image: /wp-content/uploads/2018/02/pulsus-youtube-screengrab.jpg
 categories:
   - Digital Futures Discovery Series
   - Events
-speaker-image: /wp-content/uploads/2018/02/Allen-Sayegh-1.jpg
-speaker-description: "<strong>Allen Sayegh</strong> is an architect, designer, an educator, and the principal of INVIVIA &#8211; an award-winning global design firm. He is an Associate Professor at Harvard Graduate School of Design and the director of REAL, the Responsive Environment and Artifacts Lab at Harvard."
+speaker-image:
+- /wp-content/uploads/2018/02/Allen-Sayegh-1.jpg
+speaker-description:
+- "<strong>Allen Sayegh</strong> is an architect, designer, an educator, and the principal of INVIVIA &#8211; an award-winning global design firm. He is an Associate Professor at Harvard Graduate School of Design and the director of REAL, the Responsive Environment and Artifacts Lab at Harvard."
 brief: "PULSUS gathers real-time data on city activity, such as traffic patterns and what residents are doing and feeling, from various sources and translates the information into soundscapes. The goal is to generate an experience that resonates on an emotion ground level."
 ---
 <p>

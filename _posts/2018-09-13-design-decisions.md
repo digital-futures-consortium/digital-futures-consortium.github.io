@@ -18,8 +18,10 @@ event-time: 3:30pm-4:30pm
 event-location:
   - Discovery Bar, Cabot Science Library
 image: /wp-content/uploads/2018/09/slideshow-dfds-2018-09-25-1.jpg
-speaker-image: /wp-content/uploads/2018/09/HenryGruber.jpg
-speaker-description: "<strong>Henry Gruber</strong> was born and raised in sunny Santa Monica, CA, and his love of Mediterranean climates led him to the study of the ancient Mediterranean world. Summers excavating in Italy, Spain, and Israel showed him how archaeological evidence could enhance our understanding of the world elucidated by our written sources. His current research focuses on the social and economic history of the later Roman Empire and brings together texts with material culture to determine what we really mean when we talk about 'the fall of Rome.'"
+speaker-image:
+- /wp-content/uploads/2018/09/HenryGruber.jpg
+speaker-description:
+- "<strong>Henry Gruber</strong> was born and raised in sunny Santa Monica, CA, and his love of Mediterranean climates led him to the study of the ancient Mediterranean world. Summers excavating in Italy, Spain, and Israel showed him how archaeological evidence could enhance our understanding of the world elucidated by our written sources. His current research focuses on the social and economic history of the later Roman Empire and brings together texts with material culture to determine what we really mean when we talk about 'the fall of Rome.'"
 brief: "Excavating in Italy, Spain, and Israel showed Henry Gruber how archaeological evidence could enhance our understanding of the world elucidated by our written sources. His current research focuses on the social and economic history of the later Roman Empire"
 categories:
   - Digital Futures Discovery Series

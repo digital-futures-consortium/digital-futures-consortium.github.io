@@ -22,8 +22,10 @@ categories:
   - Digital Futures Discovery Series
   - Events
 brief: Advance environmental engineering research using drone technology has informed our undergraduate design-based education at the John A. Paulson School of Engineering and Applied Sciences (SEAS) at Harvard University. Dr. Chalah will shed light on how a summer program was designed in the summer 2017 to educate high school students on design thinking, system and system control by using drones as the main educational tool.
-speaker-image: /wp-content/uploads/2017/10/Anas_Chalah_square.jpg
-speaker-description: 'Anas Chalah is the Assistant Dean for Teaching and Learning at the John A. Paulson School of Engineering and Applied Sciences (SEAS) at Harvard University, overseeing undergraduate active learning laboratories, and mechanical and electronic student machine shops. Chalah is a member of the SEAS executive research and teaching team, and a lecturer on engineering sciences. He is an active member of Harvard&#8217;s Teaching and Learning Consortium, which provides policy recommendations on substantive issues of teaching and learning as well as academic strategic planning.'
+speaker-image:
+- /wp-content/uploads/2017/10/Anas_Chalah_square.jpg
+speaker-description:
+- 'Anas Chalah is the Assistant Dean for Teaching and Learning at the John A. Paulson School of Engineering and Applied Sciences (SEAS) at Harvard University, overseeing undergraduate active learning laboratories, and mechanical and electronic student machine shops. Chalah is a member of the SEAS executive research and teaching team, and a lecturer on engineering sciences. He is an active member of Harvard&#8217;s Teaching and Learning Consortium, which provides policy recommendations on substantive issues of teaching and learning as well as academic strategic planning.'
 ---
 <p>
   Please join us for the third event in the <strong>Digital Futures Discovery Series</strong>, a year-long program led by Harvard's Digital Futures Consortium that explores the ongoing transformation of scholarship through innovative technology. <strong>Anas Chalah </strong>will present <b>Drone Technology: Bridging the Gap Between Research and Teaching</b>.
